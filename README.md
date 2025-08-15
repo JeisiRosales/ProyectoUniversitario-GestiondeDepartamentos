@@ -1,5 +1,5 @@
 # PROYECTO UNIVERSITARIO
-### Gestión de Departamentos
+### Gestión de Departamentos - Julio 2024
 
 Esta aplicación de consola en C# es un sistema de gestión para una universidad o institución educativa. Está diseñada para manejar información relacionada con departamentos, materias y estudiantes. El programa utiliza listas enlazadas para almacenar y gestionar los datos de manera dinámica, lo que permite agregar, modificar y eliminar registros de forma eficiente.
 
