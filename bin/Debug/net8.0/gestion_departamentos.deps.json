@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "gestion_departamentos/1.0.0": {
+        "runtime": {
+          "gestion_departamentos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gestion_departamentos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

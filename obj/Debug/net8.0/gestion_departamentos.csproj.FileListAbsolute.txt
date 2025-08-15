@@ -1,0 +1,14 @@
+C:\Users\User\Documents\gestion_departamentos\gestion_departamentos\bin\Debug\net8.0\gestion_departamentos.exe
+C:\Users\User\Documents\gestion_departamentos\gestion_departamentos\bin\Debug\net8.0\gestion_departamentos.deps.json
+C:\Users\User\Documents\gestion_departamentos\gestion_departamentos\bin\Debug\net8.0\gestion_departamentos.runtimeconfig.json
+C:\Users\User\Documents\gestion_departamentos\gestion_departamentos\bin\Debug\net8.0\gestion_departamentos.dll
+C:\Users\User\Documents\gestion_departamentos\gestion_departamentos\bin\Debug\net8.0\gestion_departamentos.pdb
+C:\Users\User\Documents\gestion_departamentos\gestion_departamentos\obj\Debug\net8.0\gestion_departamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\gestion_departamentos\gestion_departamentos\obj\Debug\net8.0\gestion_departamentos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\gestion_departamentos\gestion_departamentos\obj\Debug\net8.0\gestion_departamentos.AssemblyInfo.cs
+C:\Users\User\Documents\gestion_departamentos\gestion_departamentos\obj\Debug\net8.0\gestion_departamentos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\gestion_departamentos\gestion_departamentos\obj\Debug\net8.0\gestion_departamentos.dll
+C:\Users\User\Documents\gestion_departamentos\gestion_departamentos\obj\Debug\net8.0\refint\gestion_departamentos.dll
+C:\Users\User\Documents\gestion_departamentos\gestion_departamentos\obj\Debug\net8.0\gestion_departamentos.pdb
+C:\Users\User\Documents\gestion_departamentos\gestion_departamentos\obj\Debug\net8.0\gestion_departamentos.genruntimeconfig.cache
+C:\Users\User\Documents\gestion_departamentos\gestion_departamentos\obj\Debug\net8.0\ref\gestion_departamentos.dll
